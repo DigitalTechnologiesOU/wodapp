@@ -125,27 +125,73 @@ We collect the following Personal Data and information from you:
 
 When you access our Service by or through a mobile device, we may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile device unique ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browser you use and other statistics (“Log Data”).
 
-### 3. Service Providers
+### 3. Data Controller
+
+The Data Controller responsible for your personal data is “Digital Technologies OÜ”, located at Harju maakond, Tallinn, Põhja-Tallinna linnaosa, Telliskivi tn 57, 10412. 
+
+### 4. Legal Basis for Processing
+
+We process your personal data based on the following legal grounds:
+•	**Consent**: Where you have provided consent for specific processing activities.
+•	**Contractual Necessity**: To fulfill our contractual obligations to you.
+•	**Legal Obligation**: Compliance with legal and regulatory requirements.
+•	**Legitimate Interests**: For purposes such as improving our services, provided these interests are not overridden by your rights. 
+
+### 5. Purpose of Processing
+
+Your personal data is processed for the following purposes:
+•	To provide and enhance our services, including personalized workout recommendations.
+•	To manage your account and provide customer support.
+•	To analyze usage trends to improve user experience.
+•	To comply with legal obligations.
+•	To send marketing communications, subject to your consent.
+ 
+### 6. Data Sharing and Disclosure
+
+We do not sell your personal data. However, we may share your data with:
+•	**Service Providers:** Third-party partners assisting with hosting, analytics, and customer support.
+•	**Legal Authorities:** When required by law or to protect our legal rights.
+•	**Business Transfers:** In the event of a merger, acquisition, or asset sale, your data may be transferred to the new entity. 
+
+### 7. International Data Transfers
+
+Your personal data may be processed in countries outside the European Economic Area (EEA). In such cases, we ensure that appropriate safeguards, such as Standard Contractual Clauses, are in place to protect your data.
+
+### 8. Data Retention
+
+We retain personal data only for as long as necessary to fulfill the purposes outlined in this Privacy Policy or as required by law.
+
+### 9. Your Rights
+
+Under applicable data protection laws, you have the right to:
+•	Access the personal data we hold about you.
+•	Request correction or deletion of your personal data.
+•	Object to or restrict the processing of your data.
+•	Withdraw consent where processing is based on consent.
+•	Request data portability.
+To exercise these rights, please contact us at digitaltechnologiesou@gmail.com
+
+### 10. Service Providers
 
 We may employ third party companies and individuals to facilitate our Service, to provide the Service on our behalf, to perform Service-related services and/or to assist us in analyzing how our Service is used. These third parties have access to your Personal Information only to perform specific tasks on our behalf and are obligated not to disclose or use your information for any other purpose communications.
 
-### 4. Security
+### 11. Security
 
 The security of your Personal Information is important to us, and we strive to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information we store, in order to protect it from unauthorized access, destruction, use, modification, or disclosure. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-### 5. Links To Other Sites
+### 12. Links To Other Sites
 
 Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-### 6. Children's Privacy
+### 13. Children's Privacy
 
 We understand the importance of taking extra precautions to protect the privacy and safety of children using our service. Accordingly, we do not knowingly collect, use or disclose personal information from children under 13, or equivalent minimum age in the relevant jurisdiction, without verifiable parental consent. If we learn that we have collected the personal information of a child under 13, or equivalent minimum age depending on jurisdiction, without first receiving verifiable parental consent we will take steps to delete the information as soon as possible.
 
-### 7. Changes To This Privacy Policy
+### 14. Changes To This Privacy Policy
 
 This Privacy Policy is effective as of October 31, 2023 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page. We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. Your continued use of the Service after we post any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
 
-## Contact Us
+## 15. Contact Us
 
 If you have any questions about this Privacy Policy, Terms and Conditions of Use, please contact us:
 - via email at: digitaltechnologiesou@gmail.com
